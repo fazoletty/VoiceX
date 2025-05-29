@@ -1,6 +1,6 @@
-Voice
+VoiceX
 
-For complete details on features, development, and licensing, please visit our [documentation website](https://voice.woitaschek.de).
+
 
 ## License
 
